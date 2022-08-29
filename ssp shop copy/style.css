@@ -1,0 +1,16 @@
+.jumbotron{
+    background-image: url(/assets/img3.jpeg);
+    padding: 30rem 1rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.judul{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 4px #000000;
+    margin-top: -350px;
+    }

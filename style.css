@@ -1,0 +1,28 @@
+.jumbotron{
+    background-image: url(/assets/img1.jpeg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 25rem 1rem;
+}
+
+.rounded-circle{
+    margin-top: -370px;
+}
+
+.display-4{
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+color: rgb(255, 255, 255);
+text-shadow: 2px 2px 4px #000000;
+}
+
+@media (max-width: 768px) {
+    .rounded-circle{
+        margin-top: -450px;
+    }
+    .display-4{
+        margin-top: -100px;
+    }
+}
